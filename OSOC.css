@@ -8,12 +8,14 @@ body{
     background-size: cover;
 }
 .nittlogo{
-    width: 7%;
-    height: 7%;
+    width: 100%;
+    max-width: 100px;
+    height: auto;
 }
 .osoclogo{
-    height: 5%;
-    width: 5%;
+    width: 100%;
+    max-width: 60px;
+    height: auto;
 }
 .navbar{
     margin: auto;
